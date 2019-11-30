@@ -1,0 +1,32 @@
+{
+   "ads": true,
+   "emu": true,
+   "update": false,
+   "package": "com.loveplusplus.update.sample",
+   "url":"https://raw.githubusercontent.com/feicien/android-auto-update/develop/extras/android-auto-update-v1.3.apk",
+   "version":"1.3",
+   "inads": false,
+   "action": "https://raw.githubusercontent.com/tukangpilem/m4m3_multi/master/xml/action.jpg",
+   "fight": "https://raw.githubusercontent.com/tukangpilem/m4m3_multi/master/xml/fight.jpg",
+   "shoot": "https://raw.githubusercontent.com/tukangpilem/m4m3_multi/master/xml/shoot.jpg",
+   "casual": "https://raw.githubusercontent.com/tukangpilem/m4m3_multi/master/xml/casual.jpg",
+   "others": "https://raw.githubusercontent.com/tukangpilem/m4m3_multi/master/xml/others.jpg",
+   "data": [
+      {
+         "id": "0",
+         "title": "pubg",
+         "package": "https://play.google.com/store/apps/details?id=com.tencent.ig",
+         "desc": "The official PLAYERUNKNOWN'S BATTLEGROUNDS designed exclusively for mobile.",
+         "image": "https://github.com/tukangpilem/m4m3_multi/raw/master/thumbnail/androdun.jpg",
+         "icon": ""
+      },
+      {
+         "id": "1",
+         "title": "free fire",
+         "package": "https://play.google.com/store/apps/details?id=com.dts.freefireth",
+         "desc": "Free Fire is the ultimate survival shooter game available on mobile. Each 10-minute game places you on a remote island where you are pit against 49 other players, all seeking survival.",
+         "image": "https://github.com/tukangpilem/m4m3_multi/raw/master/thumbnail/aof3.jpg",
+         "icon": ""
+      }
+   ]
+}
